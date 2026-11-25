@@ -193,7 +193,7 @@ The final dataset is stored in "dt_clean.csv".
 
 1. Clone the repository
 
-git clone https://github.com/YOUR-USERNAME/Customer-Intelligence-Dashboard.git
+git clone https://github.com/donyaforghani/Customer-Intelligence-Dashboard.git
 
 2. Navigate to the project directory
 
