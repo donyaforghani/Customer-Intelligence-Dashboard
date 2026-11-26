@@ -103,21 +103,21 @@ The analysis explores:
 - High-value customer characteristics.
 
 <!-- EDA Screenshot --><p align="center">
-  <img src="Images/Screenshot (17).png" width="90%" alt="Exploratory Data Analysis">
-  <img src="Images/Screenshot (18).png" width="90%" alt="Exploratory Data Analysis">
-  <img src="Images/Screenshot (11) - Copy - Copy.png" width="90%" alt="Exploratory Data Analysis">
-  <img src="Images/Screenshot (14).png" width="90%" alt="Exploratory Data Analysis">
-  <img src="Images/Screenshot (15).png" width="90%" alt="Exploratory Data Analysis">
-  <img src="Images/Screenshot (13).png" width="90%" alt="Exploratory Data Analysis">
-  <img src="Images/Screenshot (12) - Copy - Copy.png.png" width="90%" alt="Exploratory Data Analysis">
-  <img src="Images/0682d600d5223823ec38d6b06fa0d797.png" width="90%" alt="Exploratory Data Analysis">
-  <img src="Images/43cdca69c5581791a526b710c8317eb5.png" width="90%" alt="Exploratory Data Analysis">
-  <img src="Images/52afa46ea4e36beb781426c6a1148e41.png" width="90%" alt="Exploratory Data Analysis">
-  <img src="Images/4d4be7e52bb43bc9b66994723c0a0de5.png" width="90%" alt="Exploratory Data Analysis">
-  <img src="Images/865027fcc21a6e01c78b3b4bf4c45667.png" width="90%" alt="Exploratory Data Analysis">
-  <img src="Images/87514018bbfd5caa7bfab0bf1156a311.png" width="90%" alt="Exploratory Data Analysis">
-  <img src="Images/f3b767833dd756b2af9987a5c78eece0.png" width="90%" alt="Exploratory Data Analysis">
-  <img src="Images/feca69982b2bdad89b4e414fad07bef9.png" width="90%" alt="Exploratory Data Analysis">
+  <img src="Images/Screenshot (17).png" width="20%" alt="Exploratory Data Analysis">
+  <img src="Images/Screenshot (18).png" width="20%" alt="Exploratory Data Analysis">
+  <img src="Images/Screenshot (11) - Copy - Copy.png" width="20%" alt="Exploratory Data Analysis">
+  <img src="Images/Screenshot (14).png" width="20%" alt="Exploratory Data Analysis">
+  <img src="Images/Screenshot (15).png" width="20%" alt="Exploratory Data Analysis">
+  <img src="Images/Screenshot (13).png" width="20%" alt="Exploratory Data Analysis">
+  <img src="Images/Screenshot (12) - Copy - Copy.png.png" width="20%" alt="Exploratory Data Analysis">
+  <img src="Images/0682d600d5223823ec38d6b06fa0d797.png" width="20%" alt="Exploratory Data Analysis">
+  <img src="Images/43cdca69c5581791a526b710c8317eb5.png" width="20%" alt="Exploratory Data Analysis">
+  <img src="Images/52afa46ea4e36beb781426c6a1148e41.png" width="20%" alt="Exploratory Data Analysis">
+  <img src="Images/4d4be7e52bb43bc9b66994723c0a0de5.png" width="20%" alt="Exploratory Data Analysis">
+  <img src="Images/865027fcc21a6e01c78b3b4bf4c45667.png" width="20%" alt="Exploratory Data Analysis">
+  <img src="Images/87514018bbfd5caa7bfab0bf1156a311.png" width="20%" alt="Exploratory Data Analysis">
+  <img src="Images/f3b767833dd756b2af9987a5c78eece0.png" width="20%" alt="Exploratory Data Analysis">
+  <img src="Images/feca69982b2bdad89b4e414fad07bef9.png" width="20%" alt="Exploratory Data Analysis">
   
   
 </p>📈 Interactive Dashboard
