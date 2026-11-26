@@ -103,21 +103,21 @@ The analysis explores:
 - High-value customer characteristics.
 
 <!-- EDA Screenshot --><p align="center">
-  <img src="Images/Screenshot (17).png" width="20%" alt="Exploratory Data Analysis">
-  <img src="Images/Screenshot (18).png" width="20%" alt="Exploratory Data Analysis">
-  <img src="Images/Screenshot (11) - Copy - Copy.png" width="20%" alt="Exploratory Data Analysis">
-  <img src="Images/Screenshot (14).png" width="20%" alt="Exploratory Data Analysis">
-  <img src="Images/Screenshot (15).png" width="20%" alt="Exploratory Data Analysis">
-  <img src="Images/Screenshot (13).png" width="20%" alt="Exploratory Data Analysis">
-  <img src="Images/Screenshot (12) - Copy - Copy.png.png" width="20%" alt="Exploratory Data Analysis">
-  <img src="Images/0682d600d5223823ec38d6b06fa0d797.png" width="20%" alt="Exploratory Data Analysis">
-  <img src="Images/43cdca69c5581791a526b710c8317eb5.png" width="20%" alt="Exploratory Data Analysis">
-  <img src="Images/52afa46ea4e36beb781426c6a1148e41.png" width="20%" alt="Exploratory Data Analysis">
-  <img src="Images/4d4be7e52bb43bc9b66994723c0a0de5.png" width="20%" alt="Exploratory Data Analysis">
-  <img src="Images/865027fcc21a6e01c78b3b4bf4c45667.png" width="20%" alt="Exploratory Data Analysis">
-  <img src="Images/87514018bbfd5caa7bfab0bf1156a311.png" width="20%" alt="Exploratory Data Analysis">
-  <img src="Images/f3b767833dd756b2af9987a5c78eece0.png" width="20%" alt="Exploratory Data Analysis">
-  <img src="Images/feca69982b2bdad89b4e414fad07bef9.png" width="20%" alt="Exploratory Data Analysis">
+  <img src="Images/Screenshot (17).png" width="30%" alt="Exploratory Data Analysis">
+  <img src="Images/Screenshot (18).png" width="30%" alt="Exploratory Data Analysis">
+  <img src="Images/Screenshot (11) - Copy - Copy.png" width="30%" alt="Exploratory Data Analysis">
+  <img src="Images/Screenshot (14).png" width="30%" alt="Exploratory Data Analysis">
+  <img src="Images/Screenshot (15).png" width="30%" alt="Exploratory Data Analysis">
+  <img src="Images/Screenshot (13).png" width="30%" alt="Exploratory Data Analysis">
+  <img src="Images/Screenshot (12) - Copy - Copy.png.png" width="30%" alt="Exploratory Data Analysis">
+  <img src="Images/0682d600d5223823ec38d6b06fa0d797.png" width="30%" alt="Exploratory Data Analysis">
+  <img src="Images/43cdca69c5581791a526b710c8317eb5.png" width="30%" alt="Exploratory Data Analysis">
+  <img src="Images/52afa46ea4e36beb781426c6a1148e41.png" width="30%" alt="Exploratory Data Analysis">
+  <img src="Images/4d4be7e52bb43bc9b66994723c0a0de5.png" width="30%" alt="Exploratory Data Analysis">
+  <img src="Images/865027fcc21a6e01c78b3b4bf4c45667.png" width="30%" alt="Exploratory Data Analysis">
+  <img src="Images/87514018bbfd5caa7bfab0bf1156a311.png" width="30%" alt="Exploratory Data Analysis">
+  <img src="Images/f3b767833dd756b2af9987a5c78eece0.png" width="30%" alt="Exploratory Data Analysis">
+  <img src="Images/feca69982b2bdad89b4e414fad07bef9.png" width="30%" alt="Exploratory Data Analysis">
   
   
 </p>📈 Interactive Dashboard
@@ -132,8 +132,8 @@ The dashboard was developed using Streamlit and includes six main sections.
 - Feature distribution analysis
 
 <p align="center">
-  <img src="Images/Screenshot (20).png" width="90%" alt="Interactive EDA">
-  <img src="Images/Screenshot (22).png" width="90%" alt="Interactive EDA">
+  <img src="Images/Screenshot (20).png" width="50%" alt="Interactive EDA">
+  <img src="Images/Screenshot (22).png" width="50%" alt="Interactive EDA">
 </p>2. Channels & Sales
 
 - Average purchases by channel.
@@ -141,7 +141,7 @@ The dashboard was developed using Streamlit and includes six main sections.
 - Income vs. total spending analysis.
 
 <p align="center">
-  <img src="Images/Screenshot (23).png" width="90%" alt="Channels and Sales">
+  <img src="Images/Screenshot (23).png" width="50%" alt="Channels and Sales">
 </p>3. Campaign Analysis
 
 - Campaign acceptance rates.
@@ -149,7 +149,7 @@ The dashboard was developed using Streamlit and includes six main sections.
 - Segment-based campaign comparisons.
 
 <p align="center">
-  <img src="Images/Screenshot (24).png" width="90%" alt="Campaign Analysis">
+  <img src="Images/Screenshot (24).png" width="50%" alt="Campaign Analysis">
 </p>4. Customer Personas
 
 - Customer segment comparison.
@@ -157,8 +157,8 @@ The dashboard was developed using Streamlit and includes six main sections.
 - High-value customer profiling.
 
 <p align="center">
-  <img src="Images/Screenshot (25).png" width="90%" alt="Customer Personas">
-  <img src="Images/Screenshot (26).png" width="90%" alt="Customer Personas">
+  <img src="Images/Screenshot (25).png" width="50%" alt="Customer Personas">
+  <img src="Images/Screenshot (26).png" width="50%" alt="Customer Personas">
 </p>5. High-Value Customer Analysis
 
 - Purchasing channel preferences.
@@ -167,8 +167,8 @@ The dashboard was developed using Streamlit and includes six main sections.
 - Correlation matrix.
 
 <p align="center">
-  <img src="Images/Screenshot (27).png" width="90%" alt="High Value Customer Analysis">
-  <img src="Images/Screenshot (28).png" width="90%" alt="High Value Customer Analysis">
+  <img src="Images/Screenshot (27).png" width="50%" alt="High Value Customer Analysis">
+  <img src="Images/Screenshot (28).png" width="50%" alt="High Value Customer Analysis">
 </p>6. Custom Plot Builder
 
 - Interactive feature selection.
@@ -176,7 +176,7 @@ The dashboard was developed using Streamlit and includes six main sections.
 - Custom analytical comparisons.
 
 <p align="center">
-  <img src="Images/Screenshot (29).png" width="90%" alt="Custom Plot Builder">
+  <img src="Images/Screenshot (29).png" width="50%" alt="Custom Plot Builder">
 </p>🌐 Multilingual Support
 
 The dashboard supports four languages:
@@ -187,10 +187,10 @@ The dashboard supports four languages:
 - Chinese
 
 <!-- Multilingual Dashboard Screenshot --><p align="center">
-  <img src="Images/Screenshot (30).png" width="90%" alt="Multilingual Dashboard">
-  <img src="Images/Screenshot (31).png" width="90%" alt="Multilingual Dashboard">
-  <img src="Images/Screenshot (32).png" width="90%" alt="Multilingual Dashboard">
-  <img src="Images/Screenshot (21).png" width="90%" alt="Multilingual Dashboard">
+  <img src="Images/Screenshot (30).png" width="50%" alt="Multilingual Dashboard">
+  <img src="Images/Screenshot (31).png" width="50%" alt="Multilingual Dashboard">
+  <img src="Images/Screenshot (32).png" width="50%" alt="Multilingual Dashboard">
+  <img src="Images/Screenshot (21).png" width="50%" alt="Multilingual Dashboard">
   
 </p>📊 Dataset Information
 
